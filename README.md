@@ -24,5 +24,6 @@ spring.jpa.properties.hibernate.format_sql=true
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-I should look like:
+It should look like:
+
 ![2](https://user-images.githubusercontent.com/63493407/164943872-84b20578-9dbc-4a6c-8a5a-a5d7d5d62949.png)
